@@ -1,0 +1,2 @@
+import bzin
+bzin.menu()

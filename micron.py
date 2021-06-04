@@ -24,10 +24,10 @@ logo='''
 
 --------------------------------------------------
 
- Auther   : Binyamin
- GitHub   : https://github.com/binyamin-binni
- YouTube  : Trick Proof
- Blogspot : https://trickproof.blogspot.com
+ Auther   : MICRON
+ GitHub   : https://github.com/shadowmicron
+ YouTube  : Anony Micron
+
 
 --------------------------------------------------
                                 '''

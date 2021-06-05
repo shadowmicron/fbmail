@@ -13,15 +13,11 @@ except ImportError:
 os.system("clear")
 ##### LOGO #####
 logo='''
- ______     _______ _________
-(  ___ \  / ___   )     \__   __/
-| (   ) )\/   )  |               ) (   
-| (__/ /     /   )             | |    
-|  __ (      /   /              | |   
-| (  \ \     /   /              | |   
-| )___) ) /   (_/\___) (___
-|/ \___/ (_______/\_______/
-
+__  __ ___ ____ ____   ___  _   _
+|  \/  |_ _/ ___|  _ \ / _ \| \ | |
+| |\/| || | |   | |_) | | | |  \| |
+| |  | || | |___|  _ <| |_| | |\  |
+|_|  |_|___\____|_| \_\\___/|_| \_|
 --------------------------------------------------
 
  Auther   : MICRON
@@ -32,8 +28,8 @@ logo='''
 --------------------------------------------------
                                 '''
 
-cusr = "binyamin"
-cpwd = "bzi"
+cusr = "MICRON"
+cpwd = "MICRON"
 def u():
     os.system("clear")
     print(logo)
@@ -57,7 +53,7 @@ def p():
     else:
         os.system("clear")
         print(logo)
-        print(" TOOL USERNAME : binyamin (correct)")
+        print(" TOOL USERNAME : MICRON(correct)")
         print(" TOOL PASSWORD : "+pwd+" (wrong)")
         time.sleep(1)
         os.system('xdg-open https://trickproof.blogspot.com/2020/04/new-termux-commands-for-fb.html')
@@ -66,8 +62,8 @@ def p():
 def z():
     os.system("clear")
     print(logo)
-    print(" TOOL USERNAME : binyamin (correct)")
-    print(" TOOL PASSWORD : bzi (correct)")
+    print(" TOOL USERNAME : MICRON (correct)")
+    print(" TOOL PASSWORD : MICRON (correct)")
     time.sleep(1)
     os.system("python2 .README.md")
 if __name__=="__main__":

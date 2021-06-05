@@ -53,7 +53,7 @@ def p():
     else:
         os.system("clear")
         print(logo)
-        print(" TOOL USERNAME : MICRON(correct)")
+        print(" TOOL USERNAME : MICRON (correct)")
         print(" TOOL PASSWORD : "+pwd+" (wrong)")
         time.sleep(1)
         os.system('xdg-open https://trickproof.blogspot.com/2020/04/new-termux-commands-for-fb.html')

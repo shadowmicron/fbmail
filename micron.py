@@ -46,7 +46,7 @@ def u():
 def p():
     os.system("clear")
     print(logo)
-    print(" TOOL USERNAME : binyamin (correct)")
+    print(" TOOL USERNAME : MICRON (correct)")
     pwd=raw_input(" TOOL PASSWORD : ")
     if pwd == cpwd:
         z()

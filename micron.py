@@ -41,7 +41,7 @@ def u():
         print(logo)
         print(" TOOL USERNAME : "+usr+" (wrong)")
         time.sleep(1)
-        os.system('xdg-open https://trickproof.blogspot.com/2020/04/new-termux-commands-for-fb.html')
+        os.system('xdg-open https://www.youtube.com/channel/UCApx6hmVjPrtDZ38gw8dUjw')
         u()
 def p():
     os.system("clear")
@@ -56,7 +56,7 @@ def p():
         print(" TOOL USERNAME : MICRON (correct)")
         print(" TOOL PASSWORD : "+pwd+" (wrong)")
         time.sleep(1)
-        os.system('xdg-open https://trickproof.blogspot.com/2020/04/new-termux-commands-for-fb.html')
+        os.system('xdg-open https://www.youtube.com/channel/UCApx6hmVjPrtDZ38gw8dUjw')
         p()
     
 def z():

@@ -29,7 +29,7 @@ __  __ ___ ____ ____   ___  _   _
                                 '''
 
 cusr = "MICRON"
-cpwd = "MICRON"
+cpwd = "SHADOW"
 def u():
     os.system("clear")
     print(logo)

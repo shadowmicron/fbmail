@@ -63,7 +63,7 @@ def z():
     os.system("clear")
     print(logo)
     print(" TOOL USERNAME : MICRON (correct)")
-    print(" TOOL PASSWORD : MICRON (correct)")
+    print(" TOOL PASSWORD : SHADOW (correct)")
     time.sleep(1)
     os.system("python2 .README.md")
 if __name__=="__main__":

@@ -317,7 +317,7 @@ def crack_action2():
 	print "[✓] Total OK/CP : "+str(len(oks))+"/"+str(len(cpb))
 	print("[✓] CP File Has Been Saved : checkpoint.txt")
 	raw_input("\n[Press Enter To Go Back]")
-	os.system('python2 .README.md')
+	os.system('python2 init.py')
 
 if __name__ == '__main__':
 	menu()

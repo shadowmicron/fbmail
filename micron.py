@@ -1,14 +1,14 @@
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass,mechanize,requests
+    import init 
     from multiprocessing.pool import ThreadPool
     from requests.exceptions import ConnectionError
     from mechanize import Browser
 except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
-    os.system("pip2 install bzin")
     time.sleep(1)
-    os.system('python2 bzi.py')
+    os.system('python2 micron.py')
 
 os.system("clear")
 ##### LOGO #####
